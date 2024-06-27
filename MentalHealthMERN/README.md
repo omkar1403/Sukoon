@@ -1,5 +1,5 @@
 
-# Umeed - A Website related to Mental Health Disorders
+# Umeed - A Website related to Mental Health Wellbeing and Awareness
 
 'Umeed' is a Hindi word which translates to 'Hope' in  the English language. It is a full stack project on the theme of 'Mental Health ' built with the aim to act as a fully comprehensive website to raise awareness and provide resources regarding all sorts of issues related to the same.   
 
