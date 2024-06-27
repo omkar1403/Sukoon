@@ -1,7 +1,7 @@
 
-# Sukoon - A Website related to Mental Health Disorders
+# Umeed - A Website related to Mental Health Disorders
 
-'Sukoon' is a Hindi word which translates to 'Peace' in  the English language. It is a full stack project on the theme of 'Mental Health ' built with the aim to act as a fully comprehensive website to raise awareness and provide resources regarding all sorts of issues related to the same.   
+'Umeed' is a Hindi word which translates to 'Hope' in  the English language. It is a full stack project on the theme of 'Mental Health ' built with the aim to act as a fully comprehensive website to raise awareness and provide resources regarding all sorts of issues related to the same.   
 
 By dedicating our website to this theme, we aim to break the stigma surrounding mental health issues and provide a safe space for individuals to learn, share their experiences, and find resources that can help them navigate through their mental health journey.
 
@@ -27,10 +27,9 @@ Please note that Sukoon is an ongoing project. Features and the technology stack
 
 ## Authors
 
-- Mansi Rawat [@mansir04](https://github.com/mansir04)
-- Shaheera Fatima [@shaheera02](https://github.com/shaheera02)
-- Aayushi Kushwaha [@Aayushi1111](https://github.com/Aayushi1111)
-- Ananya Shanker [@AnanyaShanker](https://github.com/AnanyaShanker)
+- Vedant Dapolikar 
+- Omkar Deshmukh
+- Rohit Baviskar
 
 ## Run Locally
 
