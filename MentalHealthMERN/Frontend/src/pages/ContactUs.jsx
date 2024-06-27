@@ -46,7 +46,7 @@ const ContactUs = () => {
               <i className="fa fa-map-marker"></i>
             </a>
           </div>
-          <p>Jaypee Institute of Information Technology</p>
+          <p>  Sardar Patel Institute of Technology</p>
         </div>
         <div className="address">
           <div className="icon">
